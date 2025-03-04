@@ -1,0 +1,15 @@
+
+Cuvant: aaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAa
+lungimea: 37
+Numarul de vocale: 37
+Numarul de litere mari: 18
+
+Cuvant: AANA
+lungimea: 4
+Numarul de vocale: 3
+Numarul de litere mari: 4
+
+Cuvant: ioana
+lungimea: 5
+Numarul de vocale: 4
+Numarul de litere mari: 0
